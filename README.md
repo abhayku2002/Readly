@@ -1,5 +1,5 @@
-# Book Chat
-
+# Readly - Book Chat Application
+ 
 A simple application that allows you to chat with your PDF documents using local LLMs through Ollama.
 
 ## Features
@@ -13,7 +13,7 @@ A simple application that allows you to chat with your PDF documents using local
 ## Prerequisites
 
 - Python 3.8 or higher
-- Ollama installed and running locally
+- Ollama is installed and running locally
 - Ollama model (llama2) pulled and ready to use
 
 ## Installation
