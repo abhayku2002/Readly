@@ -1,4 +1,6 @@
 # Readly - Book Chat Application
+![digital_illustration_of_a_chat](https://github.com/user-attachments/assets/0e059a52-fe1d-4836-90f2-9ca6fcb8e614)
+
  
 A simple application that allows you to chat with your PDF documents using local LLMs through Ollama.
 
@@ -60,9 +62,9 @@ streamlit run app.py
 - huggingface-hub==0.22.2
 - sentence-transformers==2.5.1
 - ollama==0.1.6
-
+![Flux_Dev_A_whimsical_digital_illustration_of_a_chat_applicatio_1](https://github.com/user-attachments/assets/9e430732-a351-4102-88e3-0cb4dd0685f9)
 ## Notes
 
 - Make sure Ollama is running before starting the app
 - The first run might take longer as it downloads the required models
-- Processing large PDFs might take some time depending on your system 
+- Processing large PDFs might take some time, depending on your system 
